@@ -1,0 +1,5 @@
+require "s3sync/diff"
+require "s3sync/exception"
+require "s3sync/forkmanager"
+require "s3sync/sync"
+require "s3sync/utils"
